@@ -1,5 +1,8 @@
 # Django with GeoLocation
 
+![alt text](image.jpg)
+
+
 Django Geolocation with folium explained in a project based tutorial. Based on Udemy course [Django with GeoLocation](https://www.udemy.com/course/django-with-geolocation) by Django Ninjas.
 
 ## Further reading
